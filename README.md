@@ -17,11 +17,13 @@ V1.0.0
 #Proyecto basado en:
 
 link de consumo para el api publica de Rick y Morty
+
 https://rickandmortyapi.com/
 
 Link de guia para la elbaoracion de la pagina:
 
 https://www.youtube.com/watch?v=BTJtTkoyprc 
+
 https://github.com/monkeywit/Rick-and-Morty-App
 
 Link con el proyecto deployado:
